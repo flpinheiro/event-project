@@ -2,10 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-.title{
-    @apply text-bold 
-}
-
 body{
-    @apply bg-black text-zinc-50
+    @apply bg-zinc-900 text-zinc-100
 }
